@@ -1,5 +1,5 @@
 # GitCertificate
-
+<img src="" alt="My Image" />
 🔧 What is Git and GitHub?
 Git: A version control system to track changes in your code.
 
