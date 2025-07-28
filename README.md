@@ -1,7 +1,7 @@
 # GitCertificate
 <img src="https://github.com/Pavanreddyl/5215315_Levaku-Pavan-Kumar-Reddy/blob/main/351275CA-0D7B-4FEE-B9AB-BA2FCB8D37C0_1_201_a.jpeg" alt="My Image" />
 
-<img src="https://github.com/Pavanreddyl/5215315_Levaku-Pavan-Kumar-Reddy/blob/main/GIT%20CERTIFICATE%20by%20Simply%20Learn%20for%20L%20%26%20T.pdf" alt="My Image"/>
+<img src="https://github.com/Pavanreddyl/5215315_Levaku-Pavan-Kumar-Reddy/blob/main/Git%20Certificate%20by%20Simply%20Learn.jpeg" alt="My Image"/>
 🔧 What is Git and GitHub?
 Git: A version control system to track changes in your code.
 
